@@ -1,5 +1,5 @@
 # Estruturas de Linguagens | UERJ
 
-### **Professor:** Fransisco Santanna
-### **Aluno:** Nilson Junio
+### __Professor:__ Fransisco Santanna
+### __Aluno:__ Nilson Junio
 ###### Email: nilsonj23@gmail.com
